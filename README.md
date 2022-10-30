@@ -1,3 +1,17 @@
+## このアプリについて
+
+Laravel9の基礎学習として書籍を見ながら作成しました。  
+参考書籍『プロフェッショナルWebプログラミングLaravel』  
+
+## 開発環境
+
+- WSL2
+- Laravel Sail
+- Laravel 9
+- PHP 8
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
